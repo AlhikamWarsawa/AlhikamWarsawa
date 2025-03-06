@@ -1,3 +1,3 @@
-<!--START_WAKA-->
+<!--START_SECTION:waka-->
 (Loading WakaTime stats...)
-<!--END_WAKA-->
+<!--END_SECTION:waka-->
