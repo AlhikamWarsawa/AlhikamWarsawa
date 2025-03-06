@@ -1,3 +1,1 @@
-<!--START_SECTION:waka-->
-(Loading WakaTime stats...)
-<!--END_SECTION:waka-->
+![WakaTime](https://wakatime.com/badge/user/Alhikam/project-name.svg)
